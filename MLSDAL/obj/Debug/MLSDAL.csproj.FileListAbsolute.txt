@@ -1,0 +1,8 @@
+C:\Users\German\source\repos\MLS\MLSDAL\bin\Debug\MLSDAL.dll
+C:\Users\German\source\repos\MLS\MLSDAL\bin\Debug\MLSDAL.pdb
+C:\Users\German\source\repos\MLS\MLSDAL\bin\Debug\MLSOBJ.dll
+C:\Users\German\source\repos\MLS\MLSDAL\bin\Debug\MLSOBJ.pdb
+C:\Users\German\source\repos\MLS\MLSDAL\obj\Debug\MLSDAL.csprojResolveAssemblyReference.cache
+C:\Users\German\source\repos\MLS\MLSDAL\obj\Debug\MLSDAL.csproj.CoreCompileInputs.cache
+C:\Users\German\source\repos\MLS\MLSDAL\obj\Debug\MLSDAL.dll
+C:\Users\German\source\repos\MLS\MLSDAL\obj\Debug\MLSDAL.pdb

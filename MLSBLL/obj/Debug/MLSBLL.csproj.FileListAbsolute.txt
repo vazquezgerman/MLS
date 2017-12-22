@@ -8,3 +8,13 @@ C:\Users\German\source\repos\MLS\MLSBLL\bin\Debug\MLSDAL.pdb
 C:\Users\German\source\repos\MLS\MLSBLL\bin\Debug\MLSOBJ.pdb
 C:\Users\German\source\repos\MLS\MLSBLL\obj\Debug\MLSBLL.dll
 C:\Users\German\source\repos\MLS\MLSBLL\obj\Debug\MLSBLL.pdb
+C:\Users\German\Documents\GitHub\MLS\MLSBLL\bin\Debug\MLSBLL.dll
+C:\Users\German\Documents\GitHub\MLS\MLSBLL\bin\Debug\MLSBLL.pdb
+C:\Users\German\Documents\GitHub\MLS\MLSBLL\bin\Debug\MLSDAL.dll
+C:\Users\German\Documents\GitHub\MLS\MLSBLL\bin\Debug\MLSOBJ.dll
+C:\Users\German\Documents\GitHub\MLS\MLSBLL\bin\Debug\MLSDAL.pdb
+C:\Users\German\Documents\GitHub\MLS\MLSBLL\bin\Debug\MLSOBJ.pdb
+C:\Users\German\Documents\GitHub\MLS\MLSBLL\obj\Debug\MLSBLL.csprojResolveAssemblyReference.cache
+C:\Users\German\Documents\GitHub\MLS\MLSBLL\obj\Debug\MLSBLL.csproj.CoreCompileInputs.cache
+C:\Users\German\Documents\GitHub\MLS\MLSBLL\obj\Debug\MLSBLL.dll
+C:\Users\German\Documents\GitHub\MLS\MLSBLL\obj\Debug\MLSBLL.pdb

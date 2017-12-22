@@ -3,3 +3,8 @@ C:\Users\German\source\repos\MLS\MLSOBJ\bin\Debug\MLSOBJ.pdb
 C:\Users\German\source\repos\MLS\MLSOBJ\obj\Debug\MLSOBJ.csproj.CoreCompileInputs.cache
 C:\Users\German\source\repos\MLS\MLSOBJ\obj\Debug\MLSOBJ.dll
 C:\Users\German\source\repos\MLS\MLSOBJ\obj\Debug\MLSOBJ.pdb
+C:\Users\German\Documents\GitHub\MLS\MLSOBJ\bin\Debug\MLSOBJ.dll
+C:\Users\German\Documents\GitHub\MLS\MLSOBJ\bin\Debug\MLSOBJ.pdb
+C:\Users\German\Documents\GitHub\MLS\MLSOBJ\obj\Debug\MLSOBJ.csproj.CoreCompileInputs.cache
+C:\Users\German\Documents\GitHub\MLS\MLSOBJ\obj\Debug\MLSOBJ.dll
+C:\Users\German\Documents\GitHub\MLS\MLSOBJ\obj\Debug\MLSOBJ.pdb

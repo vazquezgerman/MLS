@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace MLSOBJ
 {
-    public class StateOBJ
+    public class EstateOBJ
     {
         public int Operacion { get; set; }
         public int Pais { get; set; }

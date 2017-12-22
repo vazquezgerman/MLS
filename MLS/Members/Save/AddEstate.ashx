@@ -1,11 +1,11 @@
-﻿<%@ WebHandler Language="C#" Class="AddState" %>
+﻿<%@ WebHandler Language="C#" Class="AddEstate" %>
 
 using System;
 using System.Web;
 using MLSOBJ;
 using MLSBLL;
 
-public class AddState : IHttpHandler
+public class AddEstate : IHttpHandler
 {
 
     public void ProcessRequest(HttpContext context)
@@ -36,14 +36,14 @@ public class AddState : IHttpHandler
 
     public void Save(string calle, int numero, string piso)
     {
-        StateOBJ stateOBJ = new MLSOBJ.StateOBJ
+        EstateOBJ stateOBJ = new MLSOBJ.EstateOBJ
         {
             Calle = calle,
             Numero = numero,
             Piso = piso,
         };
 
-        StateBLL stateBLL = new StateBLL();
+        EstateBLL stateBLL = new EstateBLL();
 
         stateBLL.SaveSate(stateOBJ);
     }

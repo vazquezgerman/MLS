@@ -4,15 +4,15 @@ using System.Data;
 
 namespace MLSDAL
 {
-    public class StateDAL : DBAcces
+    public class EstateDAL : DBAcces
     {
-        public void SaveSate(StateOBJ stateOBJ)
+        public void SaveSate(EstateOBJ estateOBJ)
         {
             this.OpenConnection();
             try
             {
                 string query = string.Format(@"INSERT INTO [dbo].[Inmuebles] ([Calle], [Numero], [Piso]) VALUES ('{0}','{1}','{2}')",
-                                             stateOBJ.Calle, stateOBJ.Numero, stateOBJ.Piso);
+                                             estateOBJ.Calle, estateOBJ.Numero, estateOBJ.Piso);
                 this.ExecuteTable(query, CommandType.Text, "");
             }
             catch (Exception ex)

@@ -48,3 +48,31 @@ function CalculateAge(year) {
 
 };
 
+function populateSelect() {
+    // THE JSON ARRAY.
+    var elements = JSON.parse(Get("../Members/Save/GetPropertytype.ashx"));
+
+    var control = document.getElementById('propertytype');
+
+    for (var i = 0; i < elements.length; i++) {
+        var option = document.createElement("OPTION");
+
+        //Set Customer Name in Text part.
+        option.innerHTML = elements[i].Name;
+
+        //Set CustomerId in Value part.
+        option.value = elements[i].ID;
+
+        //Add the Option element to DropDownList.
+        control.options.add(option);
+    }
+}
+
+function Get(yourUrl) {
+    var Httpreq = new XMLHttpRequest(); // a new request
+    Httpreq.open("GET", yourUrl, false);
+    Httpreq.send(null);
+    return Httpreq.responseText;
+}
+
+window.onload = populateSelect();

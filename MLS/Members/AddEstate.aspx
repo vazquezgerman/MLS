@@ -4,11 +4,48 @@
 </asp:Content>
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="Server">
 
-    
+
 
 
     <div class="container">
-        
+
+        <div class="row">
+            <div class="col-md-3">
+                <div class="form-group">
+                    <label for="propertytype">Tipo de Inmueble</label>
+                    <select class="form-control" id="propertytype">
+                    </select>
+                </div>
+            </div>
+            <div class="col-md-3">
+                <div class="form-group">
+                    <label for="propertysubtype">Sub Tipo de Inmueble</label>
+                    <select class="form-control" id="propertysubtype">
+                        <option selected="selected">Argentina</option>
+                    </select>
+                </div>
+            </div>
+
+            <div class="col-md-3">
+                <div class="form-group">
+                    <label for="operationtype">Tipo de Operación</label>
+                    <select class="form-control" id="operationtype">
+                        <option selected="selected">Argentina</option>
+                    </select>
+                </div>
+            </div>
+
+
+
+
+
+
+
+
+
+        </div>
+        <hr />
+
         <div class="row">
             <div class="col-md-3">
                 <div class="form-group">

@@ -42,6 +42,7 @@
   <ItemGroup>
     <Compile Include="EstateBLL.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="PropertytypeBLL.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\MLSDAL\MLSDAL.csproj">

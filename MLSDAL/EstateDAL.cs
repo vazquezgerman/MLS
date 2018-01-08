@@ -11,7 +11,7 @@ namespace MLSDAL
             this.OpenConnection();
             try
             {
-                string query = string.Format(@"INSERT INTO [dbo].[Inmuebles] ([Calle], [Numero], [Piso]) VALUES ('{0}','{1}','{2}')",
+                string query = string.Format(@"INSERT INTO [dbo].[Estates] ([Calle], [Numero], [Piso]) VALUES ('{0}','{1}','{2}')",
                                              estateOBJ.Calle, estateOBJ.Numero, estateOBJ.Piso);
                 this.ExecuteTable(query, CommandType.Text, "");
             }
